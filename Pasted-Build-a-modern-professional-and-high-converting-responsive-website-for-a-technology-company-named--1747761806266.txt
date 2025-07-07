@@ -1,0 +1,147 @@
+Build a modern, professional, and high-converting responsive website for a technology company named TECTINE, which specializes in AI Automation, AI Chatbots, Telemarketing, and Digital Marketing. The brand’s motto is: “Trust in Tech. Lead the Trend.” The site must look futuristic, trustworthy, and performance-driven.
+
+🧠 General Requirements:
+Full responsive layout for desktop, tablet, and mobile
+
+Fast loading and SEO-optimized
+
+Clear CTA buttons throughout the site
+
+Optimized for lead generation (form, CTA, booking links)
+
+Sticky header with smooth navigation
+
+Include animations and hover effects where specified
+
+Use clean HTML, CSS (Tailwind preferred or custom), and JavaScript
+
+Deploy the site and provide a live link
+
+🌐 Pages Structure:
+1. Homepage
+Hero Section:
+
+Futuristic AI-themed full-width banner
+
+Headline: “Empower Your Brand with Intelligent Solutions”
+
+Subtext: “Smart AI, Seamless Automation, Scalable Growth.”
+
+Two CTAs: [Get Started] and [Watch How It Works]
+
+About Section:
+
+Include brand story titled "Born from Vision, Built with Intelligence"
+
+Present mission, vision, and a short origin story with subtle infographic/timeline
+
+Services Section:
+
+Four services with icons and hover animations:
+
+AI Chatbots 🤖
+
+Workflow Automation 🔁
+
+AI-Assisted Telemarketing 📞
+
+Digital Marketing 📈
+
+Short descriptions and results like “+40% conversion”
+
+AI Solutions Section:
+
+Embed a 30s demo video or animated workflow
+
+Diagrams of AI transforming data into outcomes
+
+Testimonials / Case Studies:
+
+3–5 client blocks with quote, photo/logo, and results
+
+Carousel or grid format
+
+CTA Section:
+
+Bold message: “Ready to let AI take your business to the next level?”
+
+CTA Button: [Book a Free Strategy Session]
+
+Footer:
+
+Dark themed
+
+Quick links, social media icons, email form
+
+Company info & WhatsApp/Email contact
+
+🎨 Design & Styling
+Color Scheme:
+
+Primary: Vibrant Teal (#00C7B1)
+
+Secondary: Navy Blue (#0B1C2B)
+
+Accent: Neon Green (#39FF14)
+
+Typography:
+
+Headings: Poppins ExtraBold
+
+Body Text: Roboto Regular
+
+UI/UX Animations:
+
+Scroll-based fade-in for sections
+
+Hover effects on service cards
+
+Sticky header and floating CTA button
+
+📄 Additional Pages:
+- /services
+Detailed breakdown for each service with benefits, visuals, pricing
+
+- /case-studies
+Filterable grid of industries
+
+Each card links to a full story with before/after impact
+
+- /blog
+Articles on AI, automation, and marketing
+
+Optional CTA in footer of each blog
+
+- /contact
+Contact form (Name, Email, Business Type, Message)
+
+Embedded Calendly booking link or alternative
+
+WhatsApp button
+
+Live chat popup (optional integration like Tidio)
+
+🚀 Deployment Instructions
+Deploy using Replit's native deployment feature
+
+Ensure HTTPS and mobile optimization
+
+Provide a working live URL
+
+Enable easy updates via Git or Replit workspace
+
+📌 Final Deliverables:
+Fully working website hosted and deployed
+
+Homepage + all inner pages
+
+Embedded brand story
+
+CTA & form connections tested
+
+Mobile responsiveness confirmed
+
+Page speed above 85 on Lighthouse
+
+Note: Do not use any generic template. All code should be customized according to the TECTINE brand style.
+
